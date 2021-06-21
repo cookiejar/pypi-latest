@@ -35,7 +35,8 @@ pypi-latest
 Features
 --------
 
-* TODO
+* Check whether the locally installed version of a Python package is the most recent version on PyPI
+* Prompt to update to the latest version if required
 
 
 Installation
@@ -51,7 +52,7 @@ You can install *pypi-latest* via pip_ from PyPI_:
 Usage
 -----
 
-Please see the `Command-line Reference <Usage_>`_ for details.
+Please see the `Usage Reference <Usage_>`_ for details.
 
 
 Credits
