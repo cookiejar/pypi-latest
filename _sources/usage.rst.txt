@@ -1,6 +1,11 @@
 Usage
 =====
 
-.. click:: pypi_latest.__main__:main
-   :prog: pypi-latest
-   :nested: full
+Import the PypiLatest class as follows:
+
+.. code:: python
+
+   from pypi_latest import PypiLatest
+
+.. automodule:: pypi_latest
+   :members:
