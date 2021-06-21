@@ -1,0 +1,20 @@
+cookietemple_version: '1.3.9 # <<COOKIETEMPLE_NO_BUMP>>'
+domain: cli
+language: python
+project_slug: pypi-latest
+project_slug_no_hyphen: pypi_latest
+template_version: '2.0.1 # <<COOKIETEMPLE_NO_BUMP>>'
+template_handle: cli-python
+github_username: cookiejar
+creator_github_username: zethson
+is_github_repo: true
+is_repo_private: false
+is_github_orga: true
+github_orga: cookiejar
+full_name: Lukas Heumos
+email: lukas.heumos@posteo.net
+project_name: pypi-latest
+project_short_description: Verify that currently installed version is the latest one
+  released on PyPI and update it if not.
+version: 0.1.0
+license: Apache2.0
