@@ -16,5 +16,5 @@ email: lukas.heumos@posteo.net
 project_name: pypi-latest
 project_short_description: Verify that currently installed version is the latest one
   released on PyPI and update it if not.
-version: 0.1.0
+version: 0.1.1
 license: Apache2.0
