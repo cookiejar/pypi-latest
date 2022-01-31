@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pypi-latest"
-version = "0.1.1"  # <<COOKIETEMPLE_FORCE_BUMP>>
+version = "0.1.2"  # <<COOKIETEMPLE_FORCE_BUMP>>
 description = "Verify that currently installed version is the latest one released on PyPI and update it if not."
 authors = ["Lukas Heumos <lukas.heumos@posteo.net>"]
 license = "Apache2.0"
